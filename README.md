@@ -8,3 +8,4 @@ Some important instructions:-\
 4)Send seperate pull requests for each issue, one PR should contain screenshot related to only one issue, if you don't do so there will be penalty and you will get less points.\
 5)Make sure your commits and pull requests are well structured, fomat for PR is =>  "Issue #x Problem Name", try to keep commmit messages concise and meaningful, in case if commit/PR description is of low quality you will get less points or worse your PR won't be merged.\
 6)From now on anyone who is adding screenshots outside the given folder will get penalty of 5 points.
+7)If your solution on hackerrank is identical to another solution, or if you try to get points multiple time on same question you will get penalty of 5 points.
